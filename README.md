@@ -20,5 +20,3 @@ Caso não queira fazer instalação do mesmo, abaixo segue o link de acesso ao a
 
 https://app.powerbi.com/view?r=eyJrIjoiYmRkNTliZDAtMmRiYy00ZWRhLTg0NTctZjMyNGRlMzMxYzhiIiwidCI6IjdlNjVmZWY2LWFkYjQtNGZmMC05YWQ3LTViNzM0ZGI4YmU5NiJ9
 
-Assista também o vídeo sobre a análise:
-https://youtu.be/NoOgdIgbV08
